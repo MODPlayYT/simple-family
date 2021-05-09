@@ -233,6 +233,15 @@ img {
 		margin: 50px 0 100px;
 		text-align: center;
 	}
+	.family-card{
+		display: block;
+	}
+	.family-card__title{
+		font-size: 18px;
+	}
+	.family-card__cont{
+		font-size: 16px;
+	}
 
 	
 
