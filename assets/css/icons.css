@@ -3,7 +3,7 @@
     list-style: none;
     margin: 10px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
 }
 .social-icons-3 a i {
     font-size: 32px;
